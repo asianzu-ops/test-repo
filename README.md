@@ -6,4 +6,4 @@ Added this new section on to the branch
 "Here is some new text I am adding from the shell to update the README file." 
 "Here is some new text I am adding from the shell to update the README file." 
 ## This is another level heading
-I am pulling this off from my remore directory!
+I am pulling this off from my remote directory!
